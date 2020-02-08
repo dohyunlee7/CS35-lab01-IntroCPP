@@ -1,0 +1,13 @@
+Answer the following questions by modifying this text file.  Write your answers between each question.
+
+
+1. What is your name?  What do you prefer to be called?
+Dohyun Lee
+
+
+2. Why are you taking CS35?
+I thought it'd be a cool class to take
+
+
+3. What is your previous experience in Computer Science?  What languages do you know and which classes have you taken?
+I took Intro to CS last semester and we used Python
